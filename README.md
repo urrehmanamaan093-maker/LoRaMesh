@@ -47,4 +47,61 @@ LoRaMesh solves this communication gap by enabling network-independent emergency
 
 ---
 
-## Technol
+## Technology Stack
+
+### Hardware
+- ESP32 / Arduino Nano
+- Reyax RYLR998 LoRa Module
+- OTG-enabled Android Device
+
+### Software
+- Android Application (Offline Chat Interface)
+- Embedded Firmware (LoRa Communication Handling)
+
+---
+
+## Innovation & Uniqueness
+
+- Internet-independent women safety system
+- Combines long-range LoRa with smartphone interface
+- Affordable alternative to satellite communication
+- Expandable to community-based mesh network
+- Future-ready wearable safety solution
+
+---
+
+## Feasibility
+
+- Built using proven and widely available components
+- Low manufacturing cost (~₹1489 for two units)
+- Scalable for institutional and community deployment
+- Suitable for rural, urban, and remote environments
+
+---
+
+## Challenges
+
+- Reduced range in dense infrastructure areas
+- Need for secure encrypted communication
+- Hardware adoption and awareness
+- Regulatory compliance for frequency usage
+
+---
+
+## Future Scope
+
+- AES encryption for secure messaging
+- GPS integration for accurate location sharing
+- Dedicated wearable safety band version
+- Community mesh safety network expansion
+- Integration with institutional security systems
+
+---
+
+## Target Users
+
+- College students
+- Rural women
+- Industrial workers
+- Trekking groups
+- Emergency response communities
